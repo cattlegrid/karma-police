@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  karma-police:
+    image: rahulthakoor/karma-police
+    privileged: true
